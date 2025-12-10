@@ -122,3 +122,6 @@ Vous devez :
 
 1. Revenir à l'état précédent avec `git reset` ou `git revert`.
 2. Expliquer la différence entre les deux commandes.
+
+Modification très dangereuse qui ne respecte
+pas les bonnes pratique GIT

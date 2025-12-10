@@ -13,3 +13,5 @@ fmt.Fprintf(w, "<h1>Colors</h1><style>*{background-color: #006400;}
 func main() {
 http.HandleFunc("/color", ColorHandler)
 }
+
+func tacos(){}

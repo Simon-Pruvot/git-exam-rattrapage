@@ -14,9 +14,4 @@ func main() {
 http.HandleFunc("/color", ColorHandler)
 }
 
-<<<<<<< HEAD
-
-wadi et Antoine les mentors
-=======
 func tacos(){}
->>>>>>> refs/remotes/origin/feature-color
